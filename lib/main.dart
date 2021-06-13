@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:vertical_landing_page/providers/page_provider.dart';
 import 'package:vertical_landing_page/router/router.dart';
-import 'package:vertical_landing_page/ui/pages/home_page.dart';
 
 void main() => runApp(AppState());
 
