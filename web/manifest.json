@@ -1,11 +1,11 @@
 {
     "name": "vertical_landing_page",
-    "short_name": "vertical_landing_page",
+    "short_name": "my landing page",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Wilmar's first app in flutter web",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
